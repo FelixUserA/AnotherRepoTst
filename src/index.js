@@ -1,6 +1,6 @@
 const axios = require('axios');
 const shell = require('shelljs');
-const args = ['FelixArcelin', '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'];
+const args = ['FelixArcelin', 'token'];
 
 if (
 	args.length != 2 &&
